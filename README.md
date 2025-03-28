@@ -42,7 +42,6 @@ Utilização basica dos comandos css e html para o desenvolvimento do projeto.
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
 ## Objetivo do Projeto
-
 Este projeto tem como objetivo criar um componente de QR Code responsivo que siga fielmente o design proposto pelo Frontend Mentor, utilizando HTML e CSS. O desafio consiste em:
 
 - Praticar a construção de componentes web simples, mas bem estruturados.
@@ -131,4 +130,4 @@ Contribuições e feedback são bem-vindos! Sinta-se à vontade para abrir issue
 
 ---
 
-Desafio por [Frontend Mentor](https://www.frontendmentor.io) - Desenvolvido por [Seu Nome]
+Desafio por [Frontend Mentor](https://www.frontendmentor.io) - Desenvolvido por [João Ricardo Alves]
