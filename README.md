@@ -115,19 +115,3 @@ Contribuições e feedback são bem-vindos! Sinta-se à vontade para abrir issue
 ---
 
 Desafio por [Frontend Mentor](https://www.frontendmentor.io) - Desenvolvido por [João Ricardo Alves]
-## Visualização do Projeto
-
-O projeto está hospedado em: https://github.com/JoaoRicardoAlves/git-test.git
-
-## Como Executar Localmente
-
-1. Clone este repositório
-2. Abra o arquivo `index.html` no navegador
-
-## Feedback
-
-Contribuições e feedback são bem-vindos! Sinta-se à vontade para abrir issues ou pull requests.
-
----
-
-Desafio por [Frontend Mentor](https://www.frontendmentor.io) - Desenvolvido por [João Ricardo Alves]
