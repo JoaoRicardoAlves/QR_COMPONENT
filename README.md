@@ -91,13 +91,13 @@ Durante o desenvolvimento deste projeto, foram reforçados os seguintes conceito
 
 ## Visualização do Projeto
 
-O projeto está hospedado em: [QR Code Component - GitHub Pages](https://github.com/JoaoRicardoAlves/git-test.git)
+O projeto está hospedado em: [QR Code Component - GitHub Pages](https://github.com/JoaoRicardoAlves/QR_COMPONENT.git)
 
 ## Como Executar Localmente
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/JoaoRicardoAlves/git-test.git
+   git clone https://github.com/JoaoRicardoAlves/QR_COMPONENT.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
